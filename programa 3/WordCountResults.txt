@@ -1,0 +1,2 @@
+Unique words: planta silla cama calle casa telefono automovil mexicanos bocina ventilador juguete ropa playera balanza luna computadora calculadora television  
+X´s found: 3execution time 0.0019991397857666016

@@ -1,0 +1,101 @@
+data result line 1 : mean: 481.82 median: 468.0  mode: [468, 748, 821] standard desviation: 298.219713593447 variance: 88045.6476
+data result line 1 : mean: 457.68 median: 462.0  mode: [27, 140, 207, 470, 481] standard desviation: 284.8862214848574 variance: 80348.55760000001
+data result line 1 : mean: 482.91 median: 486.0  mode: [683, 684, 928] standard desviation: 294.0638319697396 variance: 85608.80189999999
+data result line 1 : mean: 494.3 median: 494.5  mode: [249, 466] standard desviation: 290.87362315353494 variance: 83761.39000000001
+data result line 1 : mean: 536.2 median: 544.5  mode: [445, 711, 757, 782] standard desviation: 279.3468211106876 variance: 77254.30000000002
+data result line 1 : mean: 514.62 median: 508.5  mode: [21, 179] standard desviation: 301.86272818396554 variance: 90209.8956
+data result line 1 : mean: 506.12 median: 530.0  mode: [338] standard desviation: 291.45584692551756 variance: 84097.04560000001
+data result line 1 : mean: 521.67 median: 553.5  mode: [468, 623, 885, 993] standard desviation: 311.2336176370971 variance: 95897.7011
+data result line 1 : mean: 457.54 median: 442.0  mode: [79, 307, 659, 845, 862] standard desviation: 310.0790847314259 variance: 95187.5484
+data result line 1 : mean: 543.87 median: 542.5  mode: [182, 576, 919] standard desviation: 293.1133009123216 variance: 85056.25310000003
+data result line 1 : mean: 447.04 median: 398.0  mode: [53, 128, 363, 520, 557] standard desviation: 297.28015966985305 variance: 87491.7384
+data result line 1 : mean: 502.24 median: 570.0  mode: [302, 563, 649, 744, 879] standard desviation: 293.8168576827848 variance: 85465.06239999997
+data result line 1 : mean: 526.28 median: 567.0  mode: [264, 381, 422, 567, 751, 823] standard desviation: 266.63894098290456 variance: 70385.36160000002
+data result line 1 : mean: 498.47 median: 514.0  mode: [136, 628] standard desviation: 280.72436803398597 variance: 78018.10909999999
+data result line 1 : mean: 492.39 median: 525.0  mode: [109, 357, 422, 465, 475, 532, 912] standard desviation: 279.9147740064299 variance: 77568.75790000004
+data result line 1 : mean: 564.66 median: 593.0  mode: [8, 9, 32, 39, 53, 64, 67, 68, 69, 88, 92, 110, 130, 144, 152, 194, 217, 223, 240, 245, 248, 265, 289, 310, 329, 333, 362, 364, 370, 379, 384, 404, 432, 444, 450, 452, 472, 477, 499, 513, 517, 520, 533, 544, 552, 557, 561, 569, 571, 586, 600, 606, 612, 614, 628, 642, 646, 656, 674, 700, 701, 705, 734, 740, 746, 747, 777, 783, 788, 805, 806, 809, 813, 816, 829, 830, 841, 845, 849, 860, 865, 869, 874, 883, 888, 911, 922, 929, 931, 938, 944, 956, 959, 961, 962, 980, 982, 988, 994, 998] standard desviation: 299.5666641377613 variance: 88842.78440000002
+data result line 1 : mean: 480.48 median: 446.0  mode: [2, 79, 194] standard desviation: 304.93749914341197 variance: 92057.00959999999
+data result line 1 : mean: 490.58 median: 475.0  mode: [169, 216, 244, 331, 709, 973, 979] standard desviation: 281.42976158727544 variance: 78410.68359999999
+data result line 1 : mean: 531.77 median: 609.5  mode: [187, 262, 533, 808, 984] standard desviation: 297.9666395468263 variance: 87896.2771
+data result line 1 : mean: 481.53 median: 501.0  mode: [52, 80, 518, 722, 830, 949] standard desviation: 282.32538914085524 variance: 78910.54909999999
+data result line 1 : mean: 513.03 median: 539.5  mode: [1, 494, 719] standard desviation: 284.69638106927067 variance: 80241.50909999997
+data result line 1 : mean: 490.31 median: 496.0  mode: [15, 123, 394, 496, 775] standard desviation: 294.6026495317228 variance: 85922.81390000001
+data result line 1 : mean: 543.12 median: 573.5  mode: [961] standard desviation: 298.4334614434027 variance: 88171.9056
+data result line 1 : mean: 510.6 median: 491.5  mode: [680] standard desviation: 280.4481982812368 variance: 77864.67999999998
+data result line 1 : mean: 518.46 median: 539.5  mode: [432, 566, 703, 772] standard desviation: 281.56705859323904 variance: 78487.2084
+data result line 1 : mean: 513.37 median: 478.0  mode: [105, 341, 397, 776, 959, 980] standard desviation: 260.7284145650723 variance: 67299.51310000004
+data result line 1 : mean: 479.4 median: 471.5  mode: [117, 127, 131, 367, 582, 828] standard desviation: 300.490575324062 variance: 89391.63999999993
+data result line 1 : mean: 508.54 median: 570.0  mode: [282, 600, 677, 728] standard desviation: 291.5545038013796 variance: 84153.98839999997
+data result line 1 : mean: 497.11 median: 518.5  mode: [978] standard desviation: 292.5248809239924 variance: 84715.09789999998
+data result line 1 : mean: 555.1 median: 617.0  mode: [123, 363, 384, 433, 696, 765, 802] standard desviation: 290.1416059705183 variance: 83340.32999999999
+data result line 1 : mean: 538.44 median: 537.5  mode: [249, 339, 441, 768] standard desviation: 281.45015239439516 variance: 78422.04639999999
+data result line 1 : mean: 564.54 median: 631.0  mode: [104, 205, 223, 528, 739, 863, 925] standard desviation: 294.2538730725253 variance: 85719.48840000002
+data result line 1 : mean: 453.26 median: 408.5  mode: [233] standard desviation: 289.46556886019374 variance: 82952.41240000002
+data result line 1 : mean: 487.85 median: 474.5  mode: [79, 309, 754, 909] standard desviation: 303.20131576031764 variance: 91011.72749999998
+data result line 1 : mean: 495.69 median: 499.5  mode: [40, 498, 851, 905, 978] standard desviation: 316.13165953699763 variance: 98939.83390000004
+data result line 1 : mean: 523.73 median: 555.0  mode: [3, 551] standard desviation: 280.2645883713273 variance: 77762.75710000003
+data result line 1 : mean: 511.75 median: 539.0  mode: [99, 647, 711, 866] standard desviation: 298.8924800768073 variance: 88443.3475
+data result line 1 : mean: 529.86 median: 582.5  mode: [302, 396, 642, 749] standard desviation: 267.9978147053977 variance: 71104.60039999998
+data result line 1 : mean: 461.0 median: 458.5  mode: [32, 104, 445, 515, 557, 817] standard desviation: 292.4861733760446 variance: 84692.68
+data result line 1 : mean: 504.17 median: 513.0  mode: [8, 276, 520, 713] standard desviation: 299.3624219854084 variance: 88721.68110000002
+data result line 1 : mean: 573.48 median: 619.5  mode: [380, 509, 555, 680, 903, 912, 953] standard desviation: 296.57269468432736 variance: 87075.80960000001
+data result line 1 : mean: 519.52 median: 526.5  mode: [161] standard desviation: 297.6370062252802 variance: 87701.90959999998
+data result line 1 : mean: 521.45 median: 511.0  mode: [46, 144, 281, 473, 488, 773] standard desviation: 301.53366815382833 variance: 90013.32750000001
+data result line 1 : mean: 502.03 median: 503.5  mode: [48, 227, 813, 908] standard desviation: 288.7324599596371 variance: 82532.7691
+data result line 1 : mean: 482.32 median: 454.5  mode: [382, 448, 567, 744] standard desviation: 264.47057387249055 variance: 69245.23760000002
+data result line 1 : mean: 531.94 median: 562.5  mode: [383, 408, 607, 789] standard desviation: 276.1720595292841 variance: 75508.29639999999
+data result line 1 : mean: 489.4 median: 506.5  mode: [101, 129, 231, 244, 578, 591, 616, 994] standard desviation: 294.2888020124091 variance: 85739.83999999994
+data result line 1 : mean: 536.79 median: 537.5  mode: [384, 503, 511, 952] standard desviation: 303.71305885854184 variance: 91319.20589999999
+data result line 1 : mean: 495.77 median: 522.0  mode: [191, 605, 659, 721] standard desviation: 254.87584044079978 variance: 64312.07709999999
+data result line 1 : mean: 515.92 median: 502.5  mode: [263, 397, 436, 482, 510, 682, 870, 873] standard desviation: 264.8889105823325 variance: 69464.4736
+data result line 1 : mean: 476.05 median: 450.5  mode: [32, 93, 234, 363, 833, 846] standard desviation: 285.7561075993006 variance: 80839.98750000003
+data result line 1 : mean: 470.97 median: 470.5  mode: [12, 253, 298, 510, 545, 714, 765] standard desviation: 284.3131171540606 variance: 80025.60909999999
+data result line 1 : mean: 511.03 median: 557.5  mode: [29, 122, 704, 944] standard desviation: 313.77916235351375 variance: 97472.7891
+data result line 1 : mean: 489.61 median: 522.5  mode: [437, 738, 800] standard desviation: 260.5408863006792 variance: 67202.73790000001
+data result line 1 : mean: 451.08 median: 395.5  mode: [30, 62, 480] standard desviation: 310.5081426736933 variance: 95451.15360000003
+data result line 1 : mean: 523.01 median: 578.5  mode: [322, 627, 721] standard desviation: 299.9665804617898 variance: 89080.14990000002
+data result line 1 : mean: 492.3 median: 510.5  mode: [138, 148, 226, 387, 586, 944] standard desviation: 280.27063039609817 variance: 77766.11000000002
+data result line 1 : mean: 501.63 median: 513.5  mode: [95] standard desviation: 269.63644266330397 variance: 71976.77309999999
+data result line 1 : mean: 502.11 median: 497.0  mode: [446] standard desviation: 264.43730596850133 variance: 69227.8179
+data result line 1 : mean: 545.28 median: 550.5  mode: [283, 807] standard desviation: 281.9281404252445 variance: 78688.64160000002
+data result line 1 : mean: 506.2 median: 488.5  mode: [272, 314, 872, 901] standard desviation: 288.1971126808452 variance: 82227.00000000003
+data result line 1 : mean: 500.39 median: 477.0  mode: [22, 68, 179, 202] standard desviation: 323.3480751091117 variance: 103508.43790000003
+data result line 1 : mean: 483.64 median: 460.0  mode: [47, 204, 278, 420] standard desviation: 298.29331101105737 variance: 88089.1104
+data result line 1 : mean: 495.35 median: 480.0  mode: [280] standard desviation: 277.96058782467406 variance: 76489.46749999996
+data result line 1 : mean: 509.41 median: 513.5  mode: [29, 33, 65, 224, 666, 743, 968] standard desviation: 308.46436511444 variance: 94198.7619
+data result line 1 : mean: 521.66 median: 566.0  mode: [566] standard desviation: 298.2185226855087 variance: 88044.9444
+data result line 1 : mean: 479.37 median: 473.0  mode: [30, 503, 541, 555] standard desviation: 322.901888185776 variance: 103222.97309999997
+data result line 1 : mean: 486.31 median: 497.0  mode: [430] standard desviation: 284.97540900466083 variance: 80398.87389999999
+data result line 1 : mean: 489.31 median: 493.0  mode: [178, 283, 398, 662] standard desviation: 274.8300372847542 variance: 74776.2339
+data result line 1 : mean: 494.88 median: 508.0  mode: [28, 387, 565] standard desviation: 289.3619340702728 variance: 82893.02560000001
+data result line 1 : mean: 434.13 median: 404.0  mode: [119, 210, 215, 625] standard desviation: 288.74929375924825 variance: 82542.3931
+data result line 1 : mean: 527.02 median: 576.0  mode: [259, 706, 750, 846] standard desviation: 290.25927037806053 variance: 83407.9396
+data result line 1 : mean: 519.12 median: 522.0  mode: [266, 436, 506, 515, 687, 739, 930] standard desviation: 260.0437134969675 variance: 66946.50559999999
+data result line 1 : mean: 508.19 median: 475.0  mode: [176, 238, 428, 475, 970] standard desviation: 292.58598649790025 variance: 84750.49389999999
+data result line 1 : mean: 461.4 median: 425.5  mode: [7] standard desviation: 298.4741330179351 variance: 88195.93999999996
+data result line 1 : mean: 479.05 median: 476.5  mode: [10, 198, 470, 543, 793] standard desviation: 277.1358334860727 variance: 76036.22750000002
+data result line 1 : mean: 481.07 median: 491.5  mode: [234, 342, 685, 833] standard desviation: 291.9373204831973 variance: 84375.12509999996
+data result line 1 : mean: 497.44 median: 487.0  mode: [36, 261, 309, 447, 779] standard desviation: 276.5556666707025 variance: 75718.20639999997
+data result line 1 : mean: 466.94 median: 467.5  mode: [279, 395, 600] standard desviation: 299.9103172347333 variance: 89046.7364
+data result line 1 : mean: 490.83 median: 519.5  mode: [891] standard desviation: 310.21416697813686 variance: 95270.5011
+data result line 1 : mean: 497.87 median: 499.5  mode: [42, 99, 350] standard desviation: 295.7191766087235 variance: 86575.3331
+data result line 1 : mean: 530.8 median: 534.0  mode: [347] standard desviation: 299.33545926220836 variance: 88705.70000000004
+data result line 1 : mean: 503.83 median: 487.5  mode: [30, 41, 133, 188] standard desviation: 317.1667520183328 variance: 99588.80110000001
+data result line 1 : mean: 494.74 median: 519.0  mode: [763, 770, 868, 956] standard desviation: 287.938356899072 variance: 82079.41239999999
+data result line 1 : mean: 482.36 median: 448.5  mode: [78, 713, 934] standard desviation: 288.71073636588113 variance: 82520.35040000001
+data result line 1 : mean: 513.61 median: 499.0  mode: [151, 296, 723, 988] standard desviation: 299.4688191387605 variance: 88784.75790000001
+data result line 1 : mean: 465.81 median: 496.5  mode: [18, 513, 728] standard desviation: 280.5234535289304 variance: 77906.4739
+data result line 1 : mean: 507.94 median: 549.0  mode: [306, 566, 684] standard desviation: 294.06969626710315 variance: 85612.21640000002
+data result line 1 : mean: 510.4 median: 524.0  mode: [908, 922] standard desviation: 291.4981851044563 variance: 84121.47999999994
+data result line 1 : mean: 500.94 median: 479.5  mode: [177, 425] standard desviation: 287.8677031996722 variance: 82039.1364
+data result line 1 : mean: 482.03 median: 456.5  mode: [339, 359, 898] standard desviation: 286.06474703281685 variance: 81014.70910000001
+data result line 1 : mean: 467.42 median: 446.0  mode: [596, 868] standard desviation: 273.0329901996712 variance: 73801.5436
+data result line 1 : mean: 493.65 median: 509.5  mode: [26, 812] standard desviation: 305.8860081795177 variance: 92630.58749999998
+data result line 1 : mean: 476.08 median: 480.5  mode: [422, 512, 639, 700] standard desviation: 281.9849798994423 variance: 78720.3736
+data result line 1 : mean: 536.64 median: 543.0  mode: [555, 710] standard desviation: 294.60274639218517 variance: 85922.87039999999
+data result line 1 : mean: 507.04 median: 555.0  mode: [610, 632, 734, 810] standard desviation: 296.60799283590023 variance: 87096.53840000003
+data result line 1 : mean: 467.47 median: 467.5  mode: [6, 615, 652, 733] standard desviation: 277.5170376060111 variance: 76245.54910000002
+data result line 1 : mean: 483.5 median: 506.5  mode: [127, 137, 158, 929] standard desviation: 290.4203675691323 variance: 83500.55
+data result line 1 : mean: 448.94 median: 463.0  mode: [24, 40, 54, 78, 543] standard desviation: 271.2447111619566 variance: 72837.95639999997
+data result line 1 : mean: 504.94 median: 503.0  mode: [388, 552] standard desviation: 293.497399709714 variance: 85279.31639999998
+execution time 0.10600757598876953
